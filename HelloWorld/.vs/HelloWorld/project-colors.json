@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69e9ec31-7af5-49e4-af72-2df033ab9613": {
+      "ProjectGuid": "69e9ec31-7af5-49e4-af72-2df033ab9613",
+      "DisplayName": "HelloWorld",
+      "ColorIndex": 0
+    },
+    "fececfb4-7c12-4226-aad1-e0241188da8c": {
+      "ProjectGuid": "fececfb4-7c12-4226-aad1-e0241188da8c",
+      "DisplayName": "GIRIS",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
