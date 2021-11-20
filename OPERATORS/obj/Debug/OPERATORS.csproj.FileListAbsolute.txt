@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\OPERATORS\bin\Debug\OPERATORS.exe.config
+C:\Users\User\Desktop\c#\OPERATORS\bin\Debug\OPERATORS.exe
+C:\Users\User\Desktop\c#\OPERATORS\bin\Debug\OPERATORS.pdb
+C:\Users\User\Desktop\c#\OPERATORS\obj\Debug\OPERATORS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\OPERATORS\obj\Debug\OPERATORS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\OPERATORS\obj\Debug\OPERATORS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\OPERATORS\obj\Debug\OPERATORS.exe
+C:\Users\User\Desktop\c#\OPERATORS\obj\Debug\OPERATORS.pdb

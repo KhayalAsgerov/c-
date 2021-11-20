@@ -10,7 +10,12 @@
       "ProjectGuid": "fececfb4-7c12-4226-aad1-e0241188da8c",
       "DisplayName": "GIRIS",
       "ColorIndex": 1
+    },
+    "47bb4cd1-cbd4-4235-bac2-460b78420390": {
+      "ProjectGuid": "47bb4cd1-cbd4-4235-bac2-460b78420390",
+      "DisplayName": "OPERATORS",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
