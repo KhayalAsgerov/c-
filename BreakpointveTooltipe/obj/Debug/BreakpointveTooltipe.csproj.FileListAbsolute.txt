@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\BreakpointveTooltipe\bin\Debug\BreakpointveTooltipe.exe.config
+C:\Users\User\Desktop\c#\BreakpointveTooltipe\bin\Debug\BreakpointveTooltipe.exe
+C:\Users\User\Desktop\c#\BreakpointveTooltipe\bin\Debug\BreakpointveTooltipe.pdb
+C:\Users\User\Desktop\c#\BreakpointveTooltipe\obj\Debug\BreakpointveTooltipe.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\BreakpointveTooltipe\obj\Debug\BreakpointveTooltipe.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\BreakpointveTooltipe\obj\Debug\BreakpointveTooltipe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\BreakpointveTooltipe\obj\Debug\BreakpointveTooltipe.exe
+C:\Users\User\Desktop\c#\BreakpointveTooltipe\obj\Debug\BreakpointveTooltipe.pdb

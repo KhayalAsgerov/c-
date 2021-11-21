@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\consolereadline\bin\Debug\consolereadline.exe.config
+C:\Users\User\Desktop\c#\consolereadline\bin\Debug\consolereadline.exe
+C:\Users\User\Desktop\c#\consolereadline\bin\Debug\consolereadline.pdb
+C:\Users\User\Desktop\c#\consolereadline\obj\Debug\consolereadline.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\consolereadline\obj\Debug\consolereadline.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\consolereadline\obj\Debug\consolereadline.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\consolereadline\obj\Debug\consolereadline.exe
+C:\Users\User\Desktop\c#\consolereadline\obj\Debug\consolereadline.pdb

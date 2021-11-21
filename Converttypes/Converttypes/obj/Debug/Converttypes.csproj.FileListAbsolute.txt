@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\Converttypes\Converttypes\obj\Debug\Converttypes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\Converttypes\Converttypes\obj\Debug\Converttypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\Converttypes\Converttypes\obj\Debug\Converttypes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Converttypes\Converttypes\bin\Debug\Converttypes.exe.config
+C:\Users\User\Desktop\c#\Converttypes\Converttypes\bin\Debug\Converttypes.exe
+C:\Users\User\Desktop\c#\Converttypes\Converttypes\bin\Debug\Converttypes.pdb
+C:\Users\User\Desktop\c#\Converttypes\Converttypes\obj\Debug\Converttypes.exe
+C:\Users\User\Desktop\c#\Converttypes\Converttypes\obj\Debug\Converttypes.pdb

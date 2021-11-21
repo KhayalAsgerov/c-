@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\convertx+y\bin\Debug\convertx+y.exe.config
+C:\Users\User\Desktop\c#\convertx+y\bin\Debug\convertx+y.exe
+C:\Users\User\Desktop\c#\convertx+y\bin\Debug\convertx+y.pdb
+C:\Users\User\Desktop\c#\convertx+y\obj\Debug\convertx+y.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\convertx+y\obj\Debug\convertx+y.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\convertx+y\obj\Debug\convertx+y.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\convertx+y\obj\Debug\convertx+y.exe
+C:\Users\User\Desktop\c#\convertx+y\obj\Debug\convertx+y.pdb

@@ -5,7 +5,12 @@
       "ProjectGuid": "47bb4cd1-cbd4-4235-bac2-460b78420390",
       "DisplayName": "OPERATORS",
       "ColorIndex": 0
+    },
+    "c7043b21-b3f8-4541-9895-3ae4d93b78b1": {
+      "ProjectGuid": "c7043b21-b3f8-4541-9895-3ae4d93b78b1",
+      "DisplayName": "ConsoleREADLINE",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
