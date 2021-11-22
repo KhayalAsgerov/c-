@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "215d0c3c-c3cb-4913-9656-4a60065d95fd": {
+      "ProjectGuid": "215d0c3c-c3cb-4913-9656-4a60065d95fd",
+      "DisplayName": "KapitalBankAtm",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

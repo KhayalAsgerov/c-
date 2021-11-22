@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\KapitalBankAtm\KapitalBankAtm\bin\Debug\KapitalBankAtm.exe.config
+C:\Users\User\Desktop\c#\KapitalBankAtm\KapitalBankAtm\bin\Debug\KapitalBankAtm.exe
+C:\Users\User\Desktop\c#\KapitalBankAtm\KapitalBankAtm\bin\Debug\KapitalBankAtm.pdb
+C:\Users\User\Desktop\c#\KapitalBankAtm\KapitalBankAtm\obj\Debug\KapitalBankAtm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\KapitalBankAtm\KapitalBankAtm\obj\Debug\KapitalBankAtm.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\KapitalBankAtm\KapitalBankAtm\obj\Debug\KapitalBankAtm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\KapitalBankAtm\KapitalBankAtm\obj\Debug\KapitalBankAtm.exe
+C:\Users\User\Desktop\c#\KapitalBankAtm\KapitalBankAtm\obj\Debug\KapitalBankAtm.pdb
