@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\Atmswitchcaseile\Atmswitchcaseile\bin\Debug\Atmswitchcaseile.exe.config
+C:\Users\User\Desktop\c#\Atmswitchcaseile\Atmswitchcaseile\bin\Debug\Atmswitchcaseile.exe
+C:\Users\User\Desktop\c#\Atmswitchcaseile\Atmswitchcaseile\bin\Debug\Atmswitchcaseile.pdb
+C:\Users\User\Desktop\c#\Atmswitchcaseile\Atmswitchcaseile\obj\Debug\Atmswitchcaseile.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\Atmswitchcaseile\Atmswitchcaseile\obj\Debug\Atmswitchcaseile.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\Atmswitchcaseile\Atmswitchcaseile\obj\Debug\Atmswitchcaseile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Atmswitchcaseile\Atmswitchcaseile\obj\Debug\Atmswitchcaseile.exe
+C:\Users\User\Desktop\c#\Atmswitchcaseile\Atmswitchcaseile\obj\Debug\Atmswitchcaseile.pdb
