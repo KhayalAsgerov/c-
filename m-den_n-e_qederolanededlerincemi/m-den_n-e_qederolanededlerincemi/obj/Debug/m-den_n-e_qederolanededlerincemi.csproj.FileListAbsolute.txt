@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerincemi\m-den_n-e_qederolanededlerincemi\bin\Debug\m-den_n-e_qederolanededlerincemi.exe.config
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerincemi\m-den_n-e_qederolanededlerincemi\bin\Debug\m-den_n-e_qederolanededlerincemi.exe
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerincemi\m-den_n-e_qederolanededlerincemi\bin\Debug\m-den_n-e_qederolanededlerincemi.pdb
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerincemi\m-den_n-e_qederolanededlerincemi\obj\Debug\m-den_n-e_qederolanededlerincemi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerincemi\m-den_n-e_qederolanededlerincemi\obj\Debug\m-den_n-e_qederolanededlerincemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerincemi\m-den_n-e_qederolanededlerincemi\obj\Debug\m-den_n-e_qederolanededlerincemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerincemi\m-den_n-e_qederolanededlerincemi\obj\Debug\m-den_n-e_qederolanededlerincemi.exe
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerincemi\m-den_n-e_qederolanededlerincemi\obj\Debug\m-den_n-e_qederolanededlerincemi.pdb
