@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\Bedenkutleindexi\Bedenkutleindexi\bin\Debug\Bedenkutleindexi.exe.config
+C:\Users\User\Desktop\c#\Bedenkutleindexi\Bedenkutleindexi\bin\Debug\Bedenkutleindexi.exe
+C:\Users\User\Desktop\c#\Bedenkutleindexi\Bedenkutleindexi\bin\Debug\Bedenkutleindexi.pdb
+C:\Users\User\Desktop\c#\Bedenkutleindexi\Bedenkutleindexi\obj\Debug\Bedenkutleindexi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\Bedenkutleindexi\Bedenkutleindexi\obj\Debug\Bedenkutleindexi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\Bedenkutleindexi\Bedenkutleindexi\obj\Debug\Bedenkutleindexi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Bedenkutleindexi\Bedenkutleindexi\obj\Debug\Bedenkutleindexi.exe
+C:\Users\User\Desktop\c#\Bedenkutleindexi\Bedenkutleindexi\obj\Debug\Bedenkutleindexi.pdb
