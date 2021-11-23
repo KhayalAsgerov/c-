@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\Atmswitchcaseile\ucbucaginqalanbucaginintapilmasi\bin\Debug\ucbucaginqalanbucaginintapilmasi.exe.config
+C:\Users\User\Desktop\c#\Atmswitchcaseile\ucbucaginqalanbucaginintapilmasi\bin\Debug\ucbucaginqalanbucaginintapilmasi.exe
+C:\Users\User\Desktop\c#\Atmswitchcaseile\ucbucaginqalanbucaginintapilmasi\bin\Debug\ucbucaginqalanbucaginintapilmasi.pdb
+C:\Users\User\Desktop\c#\Atmswitchcaseile\ucbucaginqalanbucaginintapilmasi\obj\Debug\ucbucaginqalanbucaginintapilmasi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\Atmswitchcaseile\ucbucaginqalanbucaginintapilmasi\obj\Debug\ucbucaginqalanbucaginintapilmasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\Atmswitchcaseile\ucbucaginqalanbucaginintapilmasi\obj\Debug\ucbucaginqalanbucaginintapilmasi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Atmswitchcaseile\ucbucaginqalanbucaginintapilmasi\obj\Debug\ucbucaginqalanbucaginintapilmasi.exe
+C:\Users\User\Desktop\c#\Atmswitchcaseile\ucbucaginqalanbucaginintapilmasi\obj\Debug\ucbucaginqalanbucaginintapilmasi.pdb
