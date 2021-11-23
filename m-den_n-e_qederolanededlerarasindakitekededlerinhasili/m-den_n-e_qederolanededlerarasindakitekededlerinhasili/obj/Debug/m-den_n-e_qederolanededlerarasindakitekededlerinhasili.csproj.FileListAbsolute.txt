@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\obj\Debug\m-den_n-e_qederolanededlerarasindakitekededlerinhasili.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\obj\Debug\m-den_n-e_qederolanededlerarasindakitekededlerinhasili.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\obj\Debug\m-den_n-e_qederolanededlerarasindakitekededlerinhasili.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\bin\Debug\m-den_n-e_qederolanededlerarasindakitekededlerinhasili.exe.config
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\bin\Debug\m-den_n-e_qederolanededlerarasindakitekededlerinhasili.exe
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\bin\Debug\m-den_n-e_qederolanededlerarasindakitekededlerinhasili.pdb
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\obj\Debug\m-den_n-e_qederolanededlerarasindakitekededlerinhasili.exe
+C:\Users\User\Desktop\c#\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\m-den_n-e_qederolanededlerarasindakitekededlerinhasili\obj\Debug\m-den_n-e_qederolanededlerarasindakitekededlerinhasili.pdb
