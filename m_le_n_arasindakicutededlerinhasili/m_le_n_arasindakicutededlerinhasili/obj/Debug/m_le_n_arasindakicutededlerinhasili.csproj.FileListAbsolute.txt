@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\m_le_n_arasindakicutededlerinhasili\m_le_n_arasindakicutededlerinhasili\bin\Debug\m_le_n_arasindakicutededlerinhasili.exe.config
+C:\Users\User\Desktop\c#\m_le_n_arasindakicutededlerinhasili\m_le_n_arasindakicutededlerinhasili\bin\Debug\m_le_n_arasindakicutededlerinhasili.exe
+C:\Users\User\Desktop\c#\m_le_n_arasindakicutededlerinhasili\m_le_n_arasindakicutededlerinhasili\bin\Debug\m_le_n_arasindakicutededlerinhasili.pdb
+C:\Users\User\Desktop\c#\m_le_n_arasindakicutededlerinhasili\m_le_n_arasindakicutededlerinhasili\obj\Debug\m_le_n_arasindakicutededlerinhasili.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\m_le_n_arasindakicutededlerinhasili\m_le_n_arasindakicutededlerinhasili\obj\Debug\m_le_n_arasindakicutededlerinhasili.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\m_le_n_arasindakicutededlerinhasili\m_le_n_arasindakicutededlerinhasili\obj\Debug\m_le_n_arasindakicutededlerinhasili.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\m_le_n_arasindakicutededlerinhasili\m_le_n_arasindakicutededlerinhasili\obj\Debug\m_le_n_arasindakicutededlerinhasili.exe
+C:\Users\User\Desktop\c#\m_le_n_arasindakicutededlerinhasili\m_le_n_arasindakicutededlerinhasili\obj\Debug\m_le_n_arasindakicutededlerinhasili.pdb
