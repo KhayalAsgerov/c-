@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\girilenucreqemliededinreqemlericemi\girilenucreqemliededinreqemlericemi\bin\Debug\girilenucreqemliededinreqemlericemi.exe.config
+C:\Users\User\Desktop\c#\girilenucreqemliededinreqemlericemi\girilenucreqemliededinreqemlericemi\bin\Debug\girilenucreqemliededinreqemlericemi.exe
+C:\Users\User\Desktop\c#\girilenucreqemliededinreqemlericemi\girilenucreqemliededinreqemlericemi\bin\Debug\girilenucreqemliededinreqemlericemi.pdb
+C:\Users\User\Desktop\c#\girilenucreqemliededinreqemlericemi\girilenucreqemliededinreqemlericemi\obj\Debug\girilenucreqemliededinreqemlericemi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\girilenucreqemliededinreqemlericemi\girilenucreqemliededinreqemlericemi\obj\Debug\girilenucreqemliededinreqemlericemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\girilenucreqemliededinreqemlericemi\girilenucreqemliededinreqemlericemi\obj\Debug\girilenucreqemliededinreqemlericemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\girilenucreqemliededinreqemlericemi\girilenucreqemliededinreqemlericemi\obj\Debug\girilenucreqemliededinreqemlericemi.exe
+C:\Users\User\Desktop\c#\girilenucreqemliededinreqemlericemi\girilenucreqemliededinreqemlericemi\obj\Debug\girilenucreqemliededinreqemlericemi.pdb
