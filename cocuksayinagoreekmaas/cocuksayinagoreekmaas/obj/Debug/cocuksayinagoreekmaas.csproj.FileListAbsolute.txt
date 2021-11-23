@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\cocuksayinagoreekmaas\cocuksayinagoreekmaas\obj\Debug\cocuksayinagoreekmaas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\cocuksayinagoreekmaas\cocuksayinagoreekmaas\obj\Debug\cocuksayinagoreekmaas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\cocuksayinagoreekmaas\cocuksayinagoreekmaas\obj\Debug\cocuksayinagoreekmaas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\cocuksayinagoreekmaas\cocuksayinagoreekmaas\bin\Debug\cocuksayinagoreekmaas.exe.config
+C:\Users\User\Desktop\c#\cocuksayinagoreekmaas\cocuksayinagoreekmaas\bin\Debug\cocuksayinagoreekmaas.exe
+C:\Users\User\Desktop\c#\cocuksayinagoreekmaas\cocuksayinagoreekmaas\bin\Debug\cocuksayinagoreekmaas.pdb
+C:\Users\User\Desktop\c#\cocuksayinagoreekmaas\cocuksayinagoreekmaas\obj\Debug\cocuksayinagoreekmaas.exe
+C:\Users\User\Desktop\c#\cocuksayinagoreekmaas\cocuksayinagoreekmaas\obj\Debug\cocuksayinagoreekmaas.pdb
