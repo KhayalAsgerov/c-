@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7a37893-7b32-496a-9106-74bcf9f985a3": {
+      "ProjectGuid": "f7a37893-7b32-496a-9106-74bcf9f985a3",
+      "DisplayName": "whileloop",
+      "ColorIndex": 0
+    },
+    "fcc11d36-e48c-45ef-b573-d8ee625f266e": {
+      "ProjectGuid": "fcc11d36-e48c-45ef-b573-d8ee625f266e",
+      "DisplayName": "100-den_0-a_qederolancutededlerinekranayazilmasi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

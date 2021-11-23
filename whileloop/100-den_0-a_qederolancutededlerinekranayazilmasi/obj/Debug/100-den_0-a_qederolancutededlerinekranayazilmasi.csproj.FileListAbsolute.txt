@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\c#\whileloop\100-den_0-a_qederolancutededlerinekranayazilmasi\bin\Debug\100-den_0-a_qederolancutededlerinekranayazilmasi.exe.config
+C:\Users\User\Desktop\c#\whileloop\100-den_0-a_qederolancutededlerinekranayazilmasi\bin\Debug\100-den_0-a_qederolancutededlerinekranayazilmasi.exe
+C:\Users\User\Desktop\c#\whileloop\100-den_0-a_qederolancutededlerinekranayazilmasi\bin\Debug\100-den_0-a_qederolancutededlerinekranayazilmasi.pdb
+C:\Users\User\Desktop\c#\whileloop\100-den_0-a_qederolancutededlerinekranayazilmasi\obj\Debug\100-den_0-a_qederolancutededlerinekranayazilmasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\whileloop\100-den_0-a_qederolancutededlerinekranayazilmasi\obj\Debug\100-den_0-a_qederolancutededlerinekranayazilmasi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\whileloop\100-den_0-a_qederolancutededlerinekranayazilmasi\obj\Debug\100-den_0-a_qederolancutededlerinekranayazilmasi.exe
+C:\Users\User\Desktop\c#\whileloop\100-den_0-a_qederolancutededlerinekranayazilmasi\obj\Debug\100-den_0-a_qederolancutededlerinekranayazilmasi.pdb
