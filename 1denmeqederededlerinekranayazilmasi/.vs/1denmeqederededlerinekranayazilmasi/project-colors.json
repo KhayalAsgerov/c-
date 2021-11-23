@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "970a596f-8075-4e72-8f1d-723c9665f445": {
+      "ProjectGuid": "970a596f-8075-4e72-8f1d-723c9665f445",
+      "DisplayName": "1denmeqederededlerinekranayazilmasi",
+      "ColorIndex": 0
+    },
+    "af11889f-b16a-4268-8999-db8a6febc32c": {
+      "ProjectGuid": "af11889f-b16a-4268-8999-db8a6febc32c",
+      "DisplayName": "1den100qederededlerinekranayazilmasi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
