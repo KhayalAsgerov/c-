@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\foricindefor\foricindefor\bin\Debug\foricindefor.exe.config
+C:\Users\User\Desktop\c#\foricindefor\foricindefor\bin\Debug\foricindefor.exe
+C:\Users\User\Desktop\c#\foricindefor\foricindefor\bin\Debug\foricindefor.pdb
+C:\Users\User\Desktop\c#\foricindefor\foricindefor\obj\Debug\foricindefor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\foricindefor\foricindefor\obj\Debug\foricindefor.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\foricindefor\foricindefor\obj\Debug\foricindefor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\foricindefor\foricindefor\obj\Debug\foricindefor.exe
+C:\Users\User\Desktop\c#\foricindefor\foricindefor\obj\Debug\foricindefor.pdb
