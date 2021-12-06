@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\exercise6\exercise6\bin\Debug\exercise6.exe.config
+C:\Users\User\Desktop\c#\exercise6\exercise6\bin\Debug\exercise6.exe
+C:\Users\User\Desktop\c#\exercise6\exercise6\bin\Debug\exercise6.pdb
+C:\Users\User\Desktop\c#\exercise6\exercise6\obj\Debug\exercise6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\exercise6\exercise6\obj\Debug\exercise6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\exercise6\exercise6\obj\Debug\exercise6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\exercise6\exercise6\obj\Debug\exercise6.exe
+C:\Users\User\Desktop\c#\exercise6\exercise6\obj\Debug\exercise6.pdb
