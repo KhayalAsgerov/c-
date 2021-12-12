@@ -453,13 +453,15 @@ namespace exercise6
             }
             Console.ReadLine(); */
 
-
+            /*
             int i =100;
             while (i > 0)
             {
                 i = i - 2; Console.WriteLine(i);
             }
-            Console.ReadLine();
+            Console.ReadLine(); */
+
+
         }
     }
 }
