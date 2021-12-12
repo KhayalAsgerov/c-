@@ -256,7 +256,5 @@ namespace exercise7
                 
             }
             Console.ReadLine(); */
-        }
-        
-    }
+            
 }
