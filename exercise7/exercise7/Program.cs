@@ -101,7 +101,7 @@ namespace exercise7
             }
              Console.ReadLine(); */
 
-            /*
+            
             Console.WriteLine("120 Qeder olan 120 tam bolunen ededler");
             for(int i = 1; i <= 120; i++)
             {
@@ -109,7 +109,7 @@ namespace exercise7
                 { Console.WriteLine(i); }
 
             }
-            Console.ReadLine(); */
+            Console.ReadLine();
             /*
 
             int a , b , c;
@@ -256,5 +256,22 @@ namespace exercise7
                 
             }
             Console.ReadLine(); */
-            
+            int[] sayilar = new int[5];
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("Bir sayi giriniz");
+                sayilar[i] = Convert.ToInt32(Console.ReadLine());
+            }
+
+            int enboyuk = sayilar[0];
+            for (int i = 1; i < 5; i++)
+            {
+                if (sayilar[i] > enboyuk)
+                    enboyuk = sayilar[i];
+
+            }
+            Console.WriteLine("Girdiyiniz en buyuk sayi = " + enboyuk);
+            Console.ReadLine(); */
+
+
 }

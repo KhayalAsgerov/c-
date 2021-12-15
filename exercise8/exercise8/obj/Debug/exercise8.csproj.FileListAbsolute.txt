@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\exercise8\exercise8\bin\Debug\exercise8.exe.config
+C:\Users\User\Desktop\c#\exercise8\exercise8\bin\Debug\exercise8.exe
+C:\Users\User\Desktop\c#\exercise8\exercise8\bin\Debug\exercise8.pdb
+C:\Users\User\Desktop\c#\exercise8\exercise8\obj\Debug\exercise8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\exercise8\exercise8\obj\Debug\exercise8.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\exercise8\exercise8\obj\Debug\exercise8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\exercise8\exercise8\obj\Debug\exercise8.exe
+C:\Users\User\Desktop\c#\exercise8\exercise8\obj\Debug\exercise8.pdb
